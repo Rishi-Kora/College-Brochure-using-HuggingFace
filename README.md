@@ -18,7 +18,7 @@ Whether it's academic programs, placement statistics, or campus life—this tool
 ### Dependencies
 Make sure to install the following Python libraries:
 ```bash
-pip install transformers torch sentencepiece accelerate
+!pip install transformers torch sentencepiece accelerate
 ```
 
 ### Running the Notebook
