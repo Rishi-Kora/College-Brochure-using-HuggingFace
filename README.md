@@ -7,7 +7,6 @@ Generate AI-powered listings and summaries of academic programs directly from co
 ## Table of Contents
 
 * [Features](#features)
-* [Demo](#demo)
 * [Getting Started](#getting-started)
 
   * [Prerequisites](#prerequisites)
@@ -30,11 +29,6 @@ Generate AI-powered listings and summaries of academic programs directly from co
 * **Interactive UI**: Provides a Gradio interface for on-the-fly queries—enter an institution name and URL, choose a model, and view extracted programs.
 * **Structured Output**: Separates listings into **Undergraduate**, **Postgraduate**, and **Other Programs** (diplomas, certificates, etc.).
 
-## Demo
-
-![Gradio Interface Screenshot](./demo_screenshot.png)
-
-Access a live demo (expires after one week) when you launch the notebook locally:
 
 ```
 Running on local URL: http://127.0.0.1:7887
